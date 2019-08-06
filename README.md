@@ -12,7 +12,6 @@ go run not.go pub.go "foo" "abcdef"
 
 ## Result
 
-_jaeger_nats_python_with_go_
 jaeger nats python with go
-![](./screenshots/jaeger_nats_python_with_go.png)
+![python_with_go](./screenshots/jaeger_nats_python_with_go.png)
 
